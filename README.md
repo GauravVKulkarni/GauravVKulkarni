@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Kulkarni</h1>
-<h3 align="center">A passionate frontend developer and designer from India</h3>
+<h3 align="center">A passionate web developer and designer from India</h3>
 
 - 🔭 I’m currently working on [Quizz](https://github.com/GauravVKulkarni/quizz.git)
 
