@@ -26,6 +26,6 @@ Skills: Interactive web design, Motion design, Mechanics, Mathematics, etc
   
 Learning mathematics needed for machine learning.  
   
-Exploring core computer science concepts like operating systems, networks, databases and much more because with AI in hand, it has become more important than ever to understand how computers work.  
+Exploring core computer science concepts like operating systems, networks, databases, etc 
   
 > Digging deeper to build tall!
