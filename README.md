@@ -19,7 +19,7 @@ Instagram
 </p>
 
 ### skills
-![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,py,java,c,nodejs,npm,react,next,express,figma,webflow,github,git,mongodb,mysql,postgresql,firebase,linux,neovim,vim,md,aws,gcp,jenkins,docker,postman,flask,androidstudio,blender,notion)
+![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,py,java,c,nodejs,npm,react,next,express,figma,webflow,github,git,mongodb,mysql,postgresql,linux,neovim,vim,md,aws,gcp,jenkins,docker,postman,flask,androidstudio,blender,notion)
 
 ### Studying
 Skills: Javascript, backend development, Interactive web design, Motion design, etc  
