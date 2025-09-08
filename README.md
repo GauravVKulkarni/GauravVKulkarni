@@ -18,7 +18,7 @@ Linkedin
 Instagram
 </p>
 
-### skills
+### Tools & Technologies
 ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,py,java,c,nodejs,npm,react,next,express,figma,webflow,github,git,mongodb,mysql,postgresql,linux,neovim,vim,md,aws,gcp,jenkins,docker,postman,flask,androidstudio,blender,notion)
 
 ### Learning
