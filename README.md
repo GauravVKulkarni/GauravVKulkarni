@@ -11,7 +11,7 @@
 <a href="https://linkedin.com/in/gaurav-kulkarni-424a45229" target="blank">Linkedin</a>
 </p>
 
-### Learning & Exploring
+### Exploring
 
 Design Engineering, Design systems, Motion & Interactivity, and design taste...
 
