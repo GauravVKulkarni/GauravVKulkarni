@@ -1,6 +1,6 @@
 # Gaurav Kulkarni - Developer, Designer.
 <a href="https://gauravkulkarni.in">Website</a>
-### Let's Connect!:
+### Let's Connect!
 <p align="left" display="inline-block">
  gaurav.kulkarni.contact@gmail.com
 </p>
@@ -24,5 +24,5 @@ Revisiting Mathematics for the fun of it!
 > Digging deeper to build tall!
 
 ### Tools & Technologies
-![Languages & Frameworks](https://skillicons.dev/icons?i=java,py,js,ts,c,nodejs,npm,html,css,tailwind,react,next,django,express,flask)
+![Languages & Frameworks](https://skillicons.dev/icons?i=java,py,js,ts,c,html,css,tailwind,react,next,nodejs,django,express,flask)
 ![Tools & Technologies](https://skillicons.dev/icons?i=figma,github,git,mongodb,mysql,postgresql,linux,neovim,aws,gcp,jenkins,docker,postman)
