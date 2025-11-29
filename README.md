@@ -1,4 +1,4 @@
-# Gaurav Kulkarni
+# Gaurav Kulkarni - Developer, Designer.
 <a href="https://gauravkulkarni.in">Website</a>
 ### Let's Connect!:
 <p align="left" display="inline-block">
