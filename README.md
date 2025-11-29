@@ -13,7 +13,7 @@
 
 ### Tools & Technologies
 ![Languages & Frameworks](https://skillicons.dev/icons?i=java,py,js,ts,c,nodejs,npm,html,css,tailwind,react,next,django,express,flask)
-![Tools & Technologies](https://skillicons.dev/icons?i=figma,github,git,mongodb,mysql,postgresql,pydantic,linux,neovim,aws,gcp,jenkins,docker,postman)
+![Tech](https://skillicons.dev/icons?i=figma,github,git,mongodb,mysql,postgresql,linux,neovim,aws,gcp,jenkins,docker,postman)
 
 ### Learning & Exploring
 
