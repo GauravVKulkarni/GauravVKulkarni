@@ -11,10 +11,6 @@
 <a href="https://linkedin.com/in/gaurav-kulkarni-424a45229" target="blank">Linkedin</a>
 </p>
 
-### Tools & Technologies
-![Languages & Frameworks](https://skillicons.dev/icons?i=java,py,js,ts,c,nodejs,npm,html,css,tailwind,react,next,django,express,flask)
-![Tech](https://skillicons.dev/icons?i=figma,github,git,mongodb,mysql,postgresql,linux,neovim,aws,gcp,jenkins,docker,postman)
-
 ### Learning & Exploring
 
 Design Engineering, Design systems, Motion & Interactivity, and design taste...
@@ -26,3 +22,7 @@ Exploring core computer science concepts like operating systems, networks, datab
 Revisiting Mathematics for the fun of it!
 
 > Digging deeper to build tall!
+
+### Tools & Technologies
+![Languages & Frameworks](https://skillicons.dev/icons?i=java,py,js,ts,c,nodejs,npm,html,css,tailwind,react,next,django,express,flask)
+![Tools & Technologies](https://skillicons.dev/icons?i=figma,github,git,mongodb,mysql,postgresql,linux,neovim,aws,gcp,jenkins,docker,postman)
